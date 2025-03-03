@@ -8,7 +8,7 @@ const Projects = {
             project : "My Portfolio",
             image : photo,
             technolohies : "HTML, CSS, React JS",
-            githubLink : "https://github.com/Harshith6928"
+            githubLink : "https://github.com/Harshith6928/my-portfolio"
         },
         {
             project : "Food Delivery App",
